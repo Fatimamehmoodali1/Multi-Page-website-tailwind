@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-blue: #0A1D3C;
+    --light-gray: #e5e5e5;
+    --white: #fff;
+    --light-peach: #e2ca9f;
+    --dark-gray: #3E3F43;
+    --light-black: #1D1D1D;
+}
